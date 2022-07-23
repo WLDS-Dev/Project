@@ -138,6 +138,17 @@ div.video > iframe {
     height: 90%;
 }
 
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    flex-wrap: wrap;
+    max-width: 800px;
+    columns: auto;
+    margin: 0 auto;
+    grid-gap: 20px;
+
+}
+
 footer {
     background-color:var(--cor2);
     color: #ffffff;
