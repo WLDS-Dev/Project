@@ -19,14 +19,8 @@ body {
     font-family: var(--fonte-destaque); 
 }
 
-img {
-    width: 100%;
-}
-
-img.pequena {
-    max-width: 300px;
-    display: block;
-    margin: auto;
+img header h1 {
+    width: 35%;
 }
 
 main p {
