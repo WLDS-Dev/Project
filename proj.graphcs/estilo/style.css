@@ -20,9 +20,9 @@ body {
 }
 
 img header h1 {
-    max-width: 100%;
+    max-width: 100px;
+    min-width: 320px;
     justify-content: center;
-    min-width: none;
     margin: auto;
 }
 
