@@ -1,5 +1,16 @@
 @charset "UTF-8"
 
+@import url('https://fonts.googleapis.com/css2? family= Comic+Neue & family= Open+Sans:wght@300 & family= Public+Sans:wght@100 & family= Sarabun: wght@300 &família = Sriracha & display=trocar');
+@import url('https://fonts.googleapis.com/css2? family= Comic+Neue & family= Open+Sans:wght@300 & family= Passion+One & family= Public+Sans:wght@ 100 & family= Sarabun:wght@300 & family= Sriracha & display=swap');
+
+
+:root {
+
+    --fonte1: Verdana, Tahoma, Geneva, sans-serif; 
+    --fonte2: 'Sriracha', cursive;
+    --fonte3: 'Passion One', cursive;
+}
+
 * {
     margin: 0px;
     padding: 0px;
